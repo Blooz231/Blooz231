@@ -46,6 +46,8 @@ I am a Senior Full Stack Engineer & AI Solutions Architect dedicated to architec
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 ![n8n](https://img.shields.io/badge/-n8n-FF6C37?logo=n8n&logoColor=white)
+![Neuron](https://img.shields.io/badge/-Neuron-FF2D20?logo=laravel&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG_Agents-4B0082?logo=databricks&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white)
 ![Linear](https://img.shields.io/badge/-Linear-5E6AD2?logo=linear&logoColor=white)
 
@@ -61,9 +63,11 @@ I am a Senior Full Stack Engineer & AI Solutions Architect dedicated to architec
 
 ## Inspirational Quotes
 
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to build it."
 > 
-> "Simplicity is the soul of efficiency."
+> "In code we trust, on the blockchain we verify."
+> 
+> "AI won't replace developers, but developers who use AI will replace those who don't."
 > 
 > "Excellent code is invisible; it just works."
 
@@ -72,11 +76,19 @@ I am a Senior Full Stack Engineer & AI Solutions Architect dedicated to architec
 Thanks for visiting my profile! Feel free to explore my projects and reach out if you'd like to collaborate. 😊
 
 ## GitHub Activity
+
+### GitHub Trophies
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Blooz231&theme=dracula&no-frame=true&column=4" alt="GitHub Trophies" />
+</p>
+
+### Stats & Metrics
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Blooz231&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blooz231&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" />
 </p>
 
+### Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Blooz231&theme=react-dark&hide_border=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Blooz231&theme=transparent&border_radius=50&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
