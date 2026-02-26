@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I’m Blooz Angus 👋
 
 **Full Stack Developer | Passionate about technology and innovation**
 
