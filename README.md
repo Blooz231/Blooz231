@@ -23,9 +23,11 @@
     <td valign="top" width="50%">
 
 ### Who I Am
+
 I am a **Senior Full Stack Engineer & AI Solutions Architect** dedicated to building high-performance digital solutions and autonomous AI agents.
 
 With a focus on **scalability** and **exceptional user experience**, I bridge the gap between:
+
 - Complex backend logic
 - Decentralized systems
 - Intelligent automation
@@ -34,16 +36,16 @@ With a focus on **scalability** and **exceptional user experience**, I bridge th
     <td valign="top" width="50%">
 
 ### My Approach
+
 My work is driven by **performance**, **security**, and **next-gen AI implementation**.
 
-| Specialty | Details |
-|-----------|---------|
-| AI Agents | RAG & Task Orchestration |
-| Blockchain | Bitcoin TechStack |
-| Community | BitDev Benin |
-| Philosophy | Engineering over Coding |
+| Specialty  | Details                  |
+| ---------- | ------------------------ |
+| AI Agents  | RAG & Task Orchestration |
+| Blockchain | Bitcoin TechStack        |
+| Community  | BitDev Benin             |
+| Philosophy | Engineering over Coding  |
 
-    </td>
   </tr>
 </table>
 
@@ -53,14 +55,14 @@ My work is driven by **performance**, **security**, and **next-gen AI implementa
 
 <div align="center">
 
-| Status | Area | Description |
-|--------|------|-------------|
-| Day job | **Full Stack Engineering** | Building scalable, high-performance systems |
-| Side project | **AI Agent Orchestration** | Autonomous agents with Neuron / RAG pipelines |
-| Deep Diving | **System Design & DevOps** | Advanced architecture & automation |
-| Blockchain | **Bitcoin Architecture** | Decentralized systems & Web3 solutions |
-| Community | **BitDev Benin** | Growing the Bitcoin ecosystem in Benin |
-| Fun fact | **Vibe Coding** | I build AI agents that build things while I sleep |
+| Status       | Area                       | Description                                       |
+| ------------ | -------------------------- | ------------------------------------------------- |
+| Day job      | **Full Stack Engineering** | Building scalable, high-performance systems       |
+| Side project | **AI Agent Orchestration** | Autonomous agents with Neuron / RAG pipelines     |
+| Deep Diving  | **System Design & DevOps** | Advanced architecture & automation                |
+| Blockchain   | **Bitcoin Architecture**   | Decentralized systems & Web3 solutions            |
+| Community    | **BitDev Benin**           | Growing the Bitcoin ecosystem in Benin            |
+| Fun fact     | **Vibe Coding**            | I build AI agents that build things while I sleep |
 
 </div>
 
@@ -69,6 +71,7 @@ My work is driven by **performance**, **security**, and **next-gen AI implementa
 ## Tech Stack
 
 ### Languages & Frameworks
+
 <p align="left">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -84,6 +87,7 @@ My work is driven by **performance**, **security**, and **next-gen AI implementa
 </p>
 
 ### Databases
+
 <p align="left">
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -93,6 +97,7 @@ My work is driven by **performance**, **security**, and **next-gen AI implementa
 </p>
 
 ### Blockchain & Web3
+
 <p align="left">
   <img src="https://img.shields.io/badge/-Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Blockchain-121D33?style=for-the-badge&logo=blockchaindotcom&logoColor=white"/>
@@ -101,6 +106,7 @@ My work is driven by **performance**, **security**, and **next-gen AI implementa
 </p>
 
 ### AI & Intelligent Agents
+
 <p align="left">
   <img src="https://img.shields.io/badge/-AI_Agents-FF6F61?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/-RAG_Agents-4B0082?style=for-the-badge&logo=databricks&logoColor=white"/>
@@ -110,6 +116,7 @@ My work is driven by **performance**, **security**, and **next-gen AI implementa
 </p>
 
 ### Tools & DevOps
+
 <p align="left">
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white"/>
@@ -137,9 +144,9 @@ My work is driven by **performance**, **security**, and **next-gen AI implementa
 
 ## GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Blooz231&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Blooz231&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
@@ -151,7 +158,7 @@ My work is driven by **performance**, **security**, and **next-gen AI implementa
 
 ---
 
-## Contribution Snake
+## Contribution
 
 <div align="center">
   <picture>
@@ -161,47 +168,17 @@ My work is driven by **performance**, **security**, and **next-gen AI implementa
   </picture>
 </div>
 
-<!-- ============================================================
-  ACTION REQUISE — Crée ce fichier dans ton repo "Angus" :
-  Chemin : .github/workflows/snake.yml
-
-  name: Generate Snake
-  on:
-    schedule:
-      - cron: "0 0 * * *"
-    workflow_dispatch:
-  jobs:
-    build:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: Blooz231
-            outputs: |
-              dist/github-snake.svg
-              dist/github-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3.1.0
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  Apres avoir cree ce fichier, vas dans :
-  Actions > "Generate Snake" > Run workflow
-============================================================ -->
-
 ---
 
 ## Community & Engagement
 
 <div align="center">
 
-| Community | Role | Focus |
-|-----------|------|-------|
+| Community        | Role                        | Focus                                  |
+| ---------------- | --------------------------- | -------------------------------------- |
 | **BitDev Benin** | Active Member & Contributor | Growing the Bitcoin ecosystem in Benin |
-| **AI Builders** | Builder | Autonomous Agents & RAG Systems |
-| **Open Source** | Collaborator | Decentralized & AI-driven projects |
+| **AI Builders**  | Builder                     | Autonomous Agents & RAG Systems        |
+| **Open Source**  | Collaborator                | Decentralized & AI-driven projects     |
 
 </div>
 
@@ -227,13 +204,13 @@ My work is driven by **performance**, **security**, and **next-gen AI implementa
 
 <div align="center">
 
-> *"The best way to predict the future is to build it."*
+> _"The best way to predict the future is to build it."_
 
-> *"In code we trust, on the blockchain we verify."*
+> _"In code we trust, on the blockchain we verify."_
 
-> *"AI won't replace developers, but developers who use AI will replace those who don't."*
+> _"AI won't replace developers, but developers who use AI will replace those who don't."_
 
-> *"Excellent code is invisible — it just works."*
+> _"Excellent code is invisible — it just works."_
 
 </div>
 
